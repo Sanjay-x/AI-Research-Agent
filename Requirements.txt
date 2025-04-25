@@ -1,0 +1,9 @@
+streamlit
+speechrecognition
+pyaudio
+requests
+beautifulsoup4
+reportlab
+chromadb
+langchain
+Gemini
